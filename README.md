@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+#### NAME: RAJAMANIKANDAN R
+#### REG NO: 212223220082
 ## Aim:
 
 To study the execution of various Linux operating system commands.
